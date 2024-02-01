@@ -57,10 +57,6 @@ export default {
         }
         loadingPage = true;
 
-        const url = '../conteudo/conteudo.json';
-        console.log('url:', url);
-        const response = await fetch(url);
-        // const data = await response.json();
         const data = conteudo;
         items.value = data.products;
 
