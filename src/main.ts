@@ -1,11 +1,12 @@
-import './assets/main.css'
+import './assets/styles.css'
 
 import { createApp } from 'vue'
-import App from './App.vue'
-import router from './router'
+import InfiniteLoading from "./InfiniteScroll.vue"
 
-const app = createApp(App)
-
-app.use(router)
+const app = createApp(InfiniteLoading)
 
 app.mount('#app')
+
+window.addEventListener('beforeunload', () => {
+    window.scrollTo(0, 0);
+});

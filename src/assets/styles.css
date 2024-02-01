@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    max-height: 100px;
+}
+
+.header {
+    height: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.search-query {
+    position: fixed;
+    z-index: 1001;
+    margin-top: 101px;
+    transition: margin-top 0.5s, box-shadow 0.5s;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 25px; /* Adjust the border-radius for rounded corners */
+    background-color: #fff; /* Set the background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box-shadow for a subtle shadow effect */
+}
+
+.scrolled-search-query {
+    margin-top: 10px !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Modify box-shadow when scrolled */
+}
+
+#app {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+}
+
+.item {
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row; /* Change from column to row */
+    align-items: center;
+}
+
+.thumbnail {
+    width: 100px;
+    height: auto;
+    margin-right: 10px; /* Add margin for spacing between elements */
+}
+
+.description {
+    text-align: left; /* Align text to the left */
+    margin-right: 10px; /* Add margin for spacing between elements */
+}
+
+.shop-button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.one-row-large {
+    width: 100%;
+}
+
+.one-row-small {
+    width: 90%;
+}
+
+/* Media query for wider screens (e.g., desktop) */
+@media (min-width: 1024px) {
+    .one-row-large {
+        width: 60%; /* Adjust the width as needed */
+    }
+    .one-row-small {
+        width: 51%;
+    }
+}
