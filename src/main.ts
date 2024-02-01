@@ -1,7 +1,7 @@
 import './assets/styles.css'
 
 import { createApp } from 'vue'
-import InfiniteLoading from "./InfiniteScroll.vue"
+import InfiniteLoading from "./components/InfiniteScroll.vue"
 
 const app = createApp(InfiniteLoading)
 

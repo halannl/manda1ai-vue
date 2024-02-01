@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="header one-row-large">
-      <img id="logo" class="logo" src="./assets/horizontal.png" alt="Logo">
+      <img id="logo" class="logo" src="../assets/horizontal.png" alt="Logo">
     </div>
     <input :class="{ 'search-query': true, 'scrolled-search-query': scrolled }" class="one-row-small" type="text" v-model="searchQuery" placeholder="Buscar produtos...">
     <div class="item one-row-large" v-for="item in listItems" :key="item.id">
@@ -28,7 +28,8 @@
 import { ref, onMounted, onUpdated, watch } from "vue";
 import InfiniteLoading from "v3-infinite-loading";
 import "v3-infinite-loading/lib/style.css";
-import conteudo from './conteudo/conteudo.json';
+import conteudo from '../conteudo/conteudo.json';
+import type { Product } from './ProductType';
 
 export default {
   name: 'InfiniteScroll',
@@ -36,9 +37,9 @@ export default {
     InfiniteLoading,
   },
   setup() {
-    const items = ref([]);
-    const filteredItems = ref([]);
-    const listItems = ref([]);
+    const items = ref<Product[]>([]);
+    const filteredItems = ref<Product[]>([]);
+    const listItems = ref<Product[]>([]);
     let page = 1;
     let loadingPage = false;
     const itemsPerPage = 10;
@@ -47,7 +48,7 @@ export default {
     let scrolled = ref(false);
     let endOfList = ref(false);
 
-    const loadItems = async $state => {
+    const loadItems = async ($state?: typeof InfiniteLoading) => {
       console.log('Loading items for page:', page);
 
       try {
@@ -56,7 +57,7 @@ export default {
         }
         loadingPage = true;
 
-        const url = './conteudo/conteudo.json';
+        const url = '../conteudo/conteudo.json';
         console.log('url:', url);
         const response = await fetch(url);
         // const data = await response.json();
