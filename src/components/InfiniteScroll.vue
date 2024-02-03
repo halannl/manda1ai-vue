@@ -49,12 +49,12 @@ export default {
     let endOfList = ref(false);
 
     const loadItems = async ($state?: typeof InfiniteLoading) => {
-      console.log('Loading items for page:', page);
-
       try {
         if (loadingPage || !hasMoreItems) {
+          await new Promise(resolve => setTimeout(resolve, 2000));
           return;
         }
+        console.log('Loading items for page:', page);
         loadingPage = true;
 
         const data = conteudo;
