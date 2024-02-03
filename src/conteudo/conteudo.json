@@ -3,231 +3,231 @@
         {
             "id": 1,
             "name": "produto1",
-            "image": "/src/conteudo/produto1.jpeg",
+            "image": "produto1.jpeg",
             "link": "https://google.com/",
             "description": "Short description or details about the item 1."
         },
         {
             "id": 2,
             "name": "produto2",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 2."
         },
         {
             "id": 3,
             "name": "produto3",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 3."
         },
         {
             "id": 4,
             "name": "produto4",
-            "image": "/src/conteudo/produto1.jpeg",
+            "image": "produto1.jpeg",
             "link": "https://google.com/",
             "description": "Short description or details about the item 4."
         },
         {
             "id": 5,
             "name": "produto5",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 5."
         },
         {
             "id": 6,
             "name": "produto6",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 6."
         },
         {
             "id": 7,
             "name": "produto7",
-            "image": "/src/conteudo/produto1.jpeg",
+            "image": "produto1.jpeg",
             "link": "https://google.com/",
             "description": "Short description or details about the item 7."
         },
         {
             "id": 8,
             "name": "produto8",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 8."
         },
         {
             "id": 9,
             "name": "produto9",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 9."
         },
         {
             "id": 10,
             "name": "produto10",
-            "image": "/src/conteudo/produto1.jpeg",
+            "image": "produto1.jpeg",
             "link": "https://google.com/",
             "description": "Short description or details about the item 10."
         },
         {
             "id": 11,
             "name": "produto11",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 11."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 12,
             "name": "produto12",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 12."
         },
         {
             "id": 13,
             "name": "produto13",
-            "image": "/src/conteudo/produto2.png",
+            "image": "produto2.png",
             "link": "your-affiliate-link2",
             "description": "Short description or details about the item 13."
         }
