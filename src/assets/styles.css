@@ -49,7 +49,7 @@ body {
     display: flex;
     flex-direction: row; /* Change from column to row */
     align-items: center;
-    background-color: white;
+    background-color: #ffffff;
 }
 
 .thumbnail {
@@ -65,7 +65,7 @@ body {
 
 .shop-button {
     padding: 10px;
-    background-color: #4CAF50;
+    background-color: #7a7c43;
     color: white;
     text-align: center;
     text-decoration: none;
