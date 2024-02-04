@@ -12,9 +12,10 @@
       </div>
       <a class="shop-button" :href="item.link" target="_blank">Visit Webshop</a>
     </div>
-    <div class="one-row-large">
+    <div class="one-row-large" style="text-align: center;">
       <div v-if="endOfList">
-        Todos os itens carregados... Volte mais tarde pra encontrar novidades!
+        <p>Todos os itens carregados...</p>
+        <p>Volte mais tarde pra encontrar novidades!</p>
       </div>
       <div v-else>
         <p>Carregando mais produtos incríveis</p>
