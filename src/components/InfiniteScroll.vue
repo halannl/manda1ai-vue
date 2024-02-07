@@ -55,7 +55,6 @@ export default {
           await new Promise(resolve => setTimeout(resolve, 2000));
           return;
         }
-        console.log('Loading items for page:', page);
         loadingPage = true;
 
         const data = conteudo;
@@ -71,25 +70,20 @@ export default {
           listItems.value = [...newItems];
           page++;
           endOfList.value = false;
-          console.log(' Page 1 There are more items available.');
         } else if (page > 1 && filteredItems.value.length > endIndex) {
           listItems.value = [...listItems.value, ...newItems];
           page++;
           endOfList.value = false;
-          console.log('There are more items available.');
         } else if (page === 1) {
           listItems.value = [...newItems];
           hasMoreItems = false;
           endOfList.value = true;
-          console.log('Page 1 No more items available.');
         } else {
           listItems.value = [...listItems.value, ...newItems];
           hasMoreItems = false;
           endOfList.value = true;
-          console.log('No more items available.');
         }
       } catch (error) {
-        console.error('Error loading items', error);
         hasMoreItems = false;
       } finally {
         await new Promise(resolve => setTimeout(resolve, 20));
@@ -113,7 +107,6 @@ export default {
     };
 
     const resetPageAndLoad = () => {
-      console.log('resetPageAndLoad()');
       items.value = [];
       filteredItems.value = [];
       listItems.value = [];
