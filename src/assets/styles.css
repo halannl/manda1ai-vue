@@ -54,15 +54,30 @@ body {
 }
 
 .thumbnail {
+    margin: 3px 8px 3px 0px;
     width: 100px;
     height: auto;
-    margin-right: 10px; /* Add margin for spacing between elements */
 }
 
-.description {
+.name-description {
     flex: 1;
     text-align: left; /* Align text to the left */
     margin-right: 10px; /* Add margin for spacing between elements */
+}
+
+.name {
+    margin-bottom: 10px;
+    font-size: medium;
+    font-weight: bold;
+    max-height: 1em; /* Set maximum height for 3 lines */
+    line-height: 1em; /* Adjust line height to control line spacing */
+    overflow: hidden; /* Hide overflowing content */
+}
+
+.description {
+    max-height: 3em; /* Set maximum height for 3 lines */
+    line-height: 1em; /* Adjust line height to control line spacing */
+    overflow: hidden; /* Hide overflowing content */
 }
 
 .shop-button {
@@ -72,9 +87,10 @@ body {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: bold;
     border-radius: 5px;
-    max-width: 65px;
+    max-width: 60px;
 }
 
 .one-row-large {
@@ -92,5 +108,8 @@ body {
     }
     .one-row-small {
         width: 51%;
+    }
+    .description {
+        max-height: 1em;
     }
 }

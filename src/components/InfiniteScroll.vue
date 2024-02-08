@@ -6,11 +6,11 @@
     <input :class="{ 'search-query': true, 'scrolled-search-query': scrolled }" class="one-row-small" type="text" v-model="searchQuery" placeholder="Buscar produtos...">
     <div class="item one-row-large" v-for="item in listItems" :key="item.id">
       <img class="thumbnail" :src="item.image" alt="Item Image">
-      <div class="description">
-        <h3>{{ item.name }}</h3>
-        <p>{{ item.description }}</p>
+      <div class="name-description">
+        <div class="name">{{ item.name }}</div>
+        <div class="description">{{ item.description }}</div>
       </div>
-      <a class="shop-button" :href="item.link" target="_blank">Visit Webshop</a>
+      <a class="shop-button" :href="item.link" target="_blank">Ir para {{ item.shop }}</a>
     </div>
     <div class="one-row-large" style="text-align: center;">
       <div v-if="endOfList">

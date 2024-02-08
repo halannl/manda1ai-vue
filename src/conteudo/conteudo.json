@@ -5,245 +5,280 @@
             "name": "Impressora De Bolso",
             "image": "0002 - Impressora De Bolso.jpg",
             "link": "https://shope.ee/8f3tvV06ek",
-            "description": "Impressora De Bolso Phomemo T02 Térmica Portátil Inkless Mini Sem Fio Para Home School Office."
+            "description": "Impressora De Bolso Phomemo T02 Térmica Portátil Inkless Mini Sem Fio Para Home School Office.",
+            "shop" : "Shopee"
         },
         {
             "id": "0001",
             "name": "Fruteira Cesto Organizador",
             "image": "0001 - Fruteira Cesto Organizador.jpg",
             "link": "https://shope.ee/40I4LgMVcC",
-            "description": "Fruteira Organizadora e cesto multiuso para objetos elegante e funcional Fruteira com Alça."
+            "description": "Fruteira Organizadora e cesto multiuso para objetos elegante e funcional Fruteira com Alça.",
+            "shop" : "Shopee"
         },
         {
             "id": "1",
             "name": "produto1",
             "image": "produto1.jpeg",
             "link": "https://google.com/",
-            "description": "Short description or details about the item 1."
+            "description": "Short description or details about the item 1.",
+            "shop" : "Amazon"
         },
         {
             "id": "2",
             "name": "produto2",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 2."
+            "description": "Short description or details about the item 2.",
+            "shop" : "AliExpress"
         },
         {
             "id": "3",
             "name": "produto3",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 3."
+            "description": "Short description or details about the item 3.",
+            "shop" : "AliExpress"
         },
         {
             "id": "4",
             "name": "produto4",
             "image": "produto1.jpeg",
             "link": "https://google.com/",
-            "description": "Short description or details about the item 4."
+            "description": "Short description or details about the item 4.",
+            "shop" : "AliExpress"
         },
         {
             "id": "5",
             "name": "produto5",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 5."
+            "description": "Short description or details about the item 5.",
+            "shop" : "AliExpress"
         },
         {
             "id": "6",
             "name": "produto6",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 6."
+            "description": "Short description or details about the item 6.",
+            "shop" : "Amazon"
         },
         {
             "id": "7",
             "name": "produto7",
             "image": "produto1.jpeg",
             "link": "https://google.com/",
-            "description": "Short description or details about the item 7."
+            "description": "Short description or details about the item 7.",
+            "shop" : "Amazon"
         },
         {
             "id": "8",
             "name": "produto8",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 8."
+            "description": "Short description or details about the item 8.",
+            "shop" : "Amazon"
         },
         {
             "id": "9",
             "name": "produto9",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 9."
+            "description": "Short description or details about the item 9.",
+            "shop" : "Amazon"
         },
         {
             "id": "10",
             "name": "produto10",
             "image": "produto1.jpeg",
             "link": "https://google.com/",
-            "description": "Short description or details about the item 10."
+            "description": "Short description or details about the item 10.",
+            "shop" : "Amazon"
         },
         {
             "id": "11",
             "name": "produto11",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 11."
+            "description": "Short description or details about the item 11.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "12",
             "name": "produto12",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 12."
+            "description": "Short description or details about the item 12.",
+            "shop" : "Shopee"
         },
         {
             "id": "13",
             "name": "produto13",
             "image": "produto2.png",
             "link": "your-affiliate-link2",
-            "description": "Short description or details about the item 13."
+            "description": "Short description or details about the item 13.",
+            "shop" : "Shopee"
         }
     ]
 }
